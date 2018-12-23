@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FA14-073B
+
+ Directory of C:\Users\K_S_Raju\Desktop\Git_prac\initial
+
+23-12-2018  12:08    <DIR>          .
+23-12-2018  12:08    <DIR>          ..
+23-12-2018  12:08                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  69,886,152,704 bytes free
